@@ -1,7 +1,13 @@
 <h1 align="center">i 👋, I'm mariyam mohamed</h1>
 <h3 align="center">A passionate backend developer from somalia</h3>
 
+- 🌱 I’m currently learning **flutter,dart,android**
+
+- 💬 Ask me about **html,css,js,phytone,c#**
+
 - 📫 How to reach me **aysuhbea64@gmail.com**
+
+- ⚡ Fun fact **talk is cheep show me the code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
